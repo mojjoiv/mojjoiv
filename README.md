@@ -11,10 +11,10 @@ I am a passionate software developer with expertise in various technologies, inc
 
 ## **Projects**
 ### **WhatsApp Ecommerce Bot**
-A project where I developed a WhatsApp-based ecommerce bot using Node.js, enabling users to shop directly through WhatsApp. [Repository Link or Live Demo]
+A project where I developed a WhatsApp-based ecommerce bot using Node.js, enabling users to shop directly through WhatsApp. ["https://github.com/mojjoiv/ecommerce-whatsapp-integration"]
 
 ### **Shared Advertising Platform**
-I led the development of a shared advertising platform, utilizing React.js and MongoDB to manage shared advertising resources among different users. [Repository Link or Live Demo]
+I led the development of a shared advertising platform, utilizing React.js and MongoDB to manage shared advertising resources among different users. 
 
 ## **Contributions**
 I actively contribute to open-source projects and engage with developer communities. I believe in the power of collaboration and continuous learning.
