@@ -25,4 +25,4 @@ I actively contribute to open-source projects and engage with developer communit
 
 Feel free to connect with me! I'm open to discussions, collaborations, and new opportunities.
 
-![Patrick Ongeche](link_to_your_profile_picture)
+![Patrick Ongeche](https://avatars.githubusercontent.com/u/22414305?v=4)
